@@ -1,5 +1,5 @@
 <h1 align="center">Hola! 👋, me llamo Ramiro Sampaoli</h1>
-<h3 align="center">Soy un desarrollador JavaScript.</h3>
+<h3 align="center">Soy un desarrollador Web FullStack.</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Java y POO**
 
