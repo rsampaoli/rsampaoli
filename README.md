@@ -1,7 +1,7 @@
 <h1 align="center">Hola! 👋, Me llamo Ramiro Sampaoli</h1>
 <h3 align="center">Soy un desarrollador Web FullStack de Argentina</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Java y POO**
+- 🌱 Actualmente estoy trabajando como **Desarrollador Web | Especializado en Front-End**
 
 - 👨‍💻 Encontrarás todos mis proyectos en [https://github.com/rsampaoli](https://github.com/rsampaoli)
 
