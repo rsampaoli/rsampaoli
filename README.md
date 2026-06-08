@@ -1,22 +1,100 @@
-<h1 align="center">Hola! 👋, Me llamo Ramiro Sampaoli</h1>
-<h3 align="center">Soy un desarrollador Web FullStack de Argentina</h3>
+<h1 align="center">Hola 👋, soy Ramiro Sampaoli</h1>
 
-- 🌱 Actualmente estoy trabajando como **Desarrollador Web | Especializado en Front-End**
+<h3 align="center">
+Desarrollador Web FullStack de Argentina 🇦🇷
+</h3>
 
-- 👨‍💻 Encontrarás todos mis proyectos en [https://github.com/rsampaoli](https://github.com/rsampaoli)
+---
 
-- 📝 Estoy activo escribiendo articulos en [https://www.linkedin.com/in/rsampaoli/](https://www.linkedin.com/in/rsampaoli/)
+### 👨‍💻 Sobre mí
 
-- 📄 Como puedes contactarme [ramirosampaoli@gmail.com](ramirosampaoli@gmail.com)
+Soy desarrollador web con experiencia en proyectos Front-End y Back-End, trabajando principalmente con tecnologías como **JavaScript, React, PHP, Drupal, MySQL, HTML y CSS**.
 
-<h3 align="left">Connect with me:</h3>
+Actualmente sigo ampliando mi portfolio con proyectos propios orientados a interfaces modernas, consumo de APIs, paneles administrativos y aplicaciones web funcionales.
+
+Me interesa crear soluciones claras, mantenibles y con buena experiencia de usuario.
+
+---
+
+### 🚀 Actualmente estoy enfocado en
+
+- Desarrollo Front-End con **React, JavaScript, HTML y CSS**
+- Desarrollo Back-End con **PHP, Drupal y MySQL**
+- Construcción de proyectos para portfolio
+- Mejora continua en buenas prácticas, arquitectura y experiencia de usuario
+
+---
+
+### 🛠️ Tecnologías y herramientas
+
 <p align="left">
-<a href="https://linkedin.com/in/rsampaoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rsampaoli" height="30" width="40" /></a>
-<a href="https://fb.com/ramirosampaoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ramirosampaoli" height="30" width="40" /></a>
-<a href="https://instagram.com/ramirosampaoli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramirosampaoli" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github,bootstrap,vscode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsampaoli&show_icons=true&locale=en&layout=compact" alt="rsampaoli" /></p>
+### 📌 Proyectos destacados
+
+#### 🧩 Job Search App Desktop
+
+Aplicación de escritorio desarrollada con Electron orientada a centralizar búsquedas laborales desde distintas plataformas.
+
+**Tecnologías:** Electron, React, JavaScript, CSS
+
+---
+
+#### 🛒 E-Commerce TurisFront
+
+Proyecto Front-End de e-commerce con estructura visual moderna, cards de productos y diseño responsive.
+
+**Tecnologías:** HTML, CSS, JavaScript
+
+---
+
+#### 📊 Dashboard ReactJS
+
+Dashboard desarrollado en React, enfocado en componentes reutilizables, estructura visual clara y manejo de datos.
+
+**Tecnologías:** React, JavaScript, CSS
+
+---
+
+#### 🌐 Proyectos Drupal
+
+Desarrollo de módulos personalizados, bloques configurables, formularios administrativos, importación de datos desde Excel y renderizado dinámico de contenido.
+
+**Tecnologías:** Drupal 10, PHP, Twig, MySQL, JavaScript
+
+---
+
+### 📫 Contacto
+
+<p align="left">
+  <a href="mailto:ramirosampaoli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ramirosampaoli%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rsampaoli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ramiro%20Sampaoli-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/rsampaoli" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-rsampaoli-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📈 Estadísticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rsampaoli&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsampaoli&layout=compact&theme=tokyonight" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+Gracias por visitar mi perfil 🚀
+</p>
