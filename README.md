@@ -1,69 +1,108 @@
 <h1 align="center">Hola 👋, soy Ramiro Sampaoli</h1>
 
 <h3 align="center">
-Desarrollador Web FullStack de Argentina 🇦🇷
+Desarrollador Back-End especializado en Drupal, PHP y soluciones web institucionales 🇦🇷
 </h3>
 
 ---
 
 ### 👨‍💻 Sobre mí
 
-Soy desarrollador web con experiencia en proyectos Front-End y Back-End, trabajando principalmente con tecnologías como **JavaScript, React, PHP, Drupal, MySQL, HTML y CSS**.
+Soy desarrollador web de Argentina, especializado en **Drupal** y desarrollo Back-End con **PHP**.
 
-Actualmente sigo ampliando mi portfolio con proyectos propios orientados a interfaces modernas, consumo de APIs, paneles administrativos y aplicaciones web funcionales.
+Trabajo en la creación de módulos personalizados, formularios administrativos, bloques configurables, integración de datos, procesamiento de archivos Excel y funcionalidades a medida dentro del ecosistema Drupal.
 
-Me interesa crear soluciones claras, mantenibles y con buena experiencia de usuario.
+Mi enfoque está puesto en construir soluciones claras, escalables y mantenibles, priorizando una buena estructura de código, correcta organización de la configuración y facilidad de administración para los usuarios del sitio.
+
+También cuento con experiencia en integración Front-End mediante **Twig, JavaScript, HTML y CSS**, principalmente aplicada al renderizado de contenido, componentes dinámicos e interfaces administrables dentro de Drupal.
 
 ---
 
 ### 🚀 Actualmente estoy enfocado en
 
-- Desarrollo Front-End con **React, JavaScript, HTML y CSS**
-- Desarrollo Back-End con **PHP, Drupal y MySQL**
-- Construcción de proyectos para portfolio
-- Mejora continua en buenas prácticas, arquitectura y experiencia de usuario
+* Desarrollo de módulos personalizados en **Drupal 10**
+* Desarrollo Back-End con **PHP**
+* Creación de rutas, controladores, formularios y servicios
+* Formularios administrativos personalizados
+* Bloques configurables
+* Importación y procesamiento de datos desde archivos Excel
+* Creación y actualización de nodos, taxonomías y entidades
+* Procesamiento por lotes con **Batch API**
+* Personalización de templates con **Twig**
+* Integración de funcionalidades con **JavaScript**
+* Trabajo con bases de datos **MySQL**
+* Versionado de código con **Git**
+* Mejora continua en buenas prácticas, arquitectura y mantenibilidad
 
 ---
 
 ### 🛠️ Tecnologías y herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,git,github,bootstrap,vscode" />
+  <img src="https://skillicons.dev/icons?i=drupal,php,mysql,js,html,css,git,github,bootstrap,vscode" />
 </p>
 
 ---
 
-### 📌 Proyectos destacados
+### 🧩 Experiencia destacada en Drupal
 
-#### 🧩 Job Search App Desktop
+#### Módulos personalizados
 
-Aplicación de escritorio desarrollada con Electron orientada a centralizar búsquedas laborales desde distintas plataformas.
+Desarrollo de módulos a medida para extender funcionalidades nativas de Drupal, incluyendo rutas personalizadas, controladores, formularios de configuración, bloques, servicios y lógica de negocio específica.
 
-**Tecnologías:** Electron, React, JavaScript, CSS
+#### Formularios administrativos
+
+Implementación de formularios personalizados para administrar configuraciones, cargar información, gestionar contenido dinámico y permitir que los usuarios administradores modifiquen funcionalidades sin intervenir el código.
+
+#### Importación de datos
+
+Desarrollo de procesos de carga masiva desde archivos Excel, con validación de datos, creación y actualización de contenido, manejo de términos de taxonomía, procesamiento por lotes y generación de reportes del proceso.
+
+#### Entidades, nodos y taxonomías
+
+Trabajo con entidades de Drupal para crear, actualizar, relacionar y estructurar contenido de forma dinámica, adaptando la lógica del sitio a los requerimientos funcionales del proyecto.
+
+#### Templates y renderizado
+
+Personalización de la salida visual mediante Twig, preprocess, variables dinámicas, render arrays y estructuras adaptadas a los requerimientos del sitio.
+
+#### Integraciones Front-End
+
+Uso de JavaScript, HTML, CSS y librerías externas para agregar interactividad, mejorar la experiencia de usuario y conectar datos de Drupal con comportamientos dinámicos en el navegador.
 
 ---
 
-#### 🛒 E-Commerce TurisFront
+### 📌 Proyectos y trabajos destacados
 
-Proyecto Front-End de e-commerce con estructura visual moderna, cards de productos y diseño responsive.
+#### 🌐 Drupal Custom Modules
 
-**Tecnologías:** HTML, CSS, JavaScript
+Desarrollo de módulos personalizados orientados a resolver necesidades específicas dentro de sitios Drupal, incluyendo administración de contenido, formularios, bloques configurables y procesamiento de información.
 
----
-
-#### 📊 Dashboard ReactJS
-
-Dashboard desarrollado en React, enfocado en componentes reutilizables, estructura visual clara y manejo de datos.
-
-**Tecnologías:** React, JavaScript, CSS
+**Tecnologías:** Drupal 10, PHP, Twig, JavaScript, MySQL
 
 ---
 
-#### 🌐 Proyectos Drupal
+#### 📊 Excel Data Importer para Drupal
 
-Desarrollo de módulos personalizados, bloques configurables, formularios administrativos, importación de datos desde Excel y renderizado dinámico de contenido.
+Módulo personalizado para importar datos desde archivos Excel, procesar registros, crear o actualizar contenido, manejar taxonomías y generar reportes del proceso mediante Batch API.
 
-**Tecnologías:** Drupal 10, PHP, Twig, MySQL, JavaScript
+**Tecnologías:** Drupal 10, PHP, PhpSpreadsheet, MySQL, Batch API
+
+---
+
+#### 🧩 Footer Builder Drupal
+
+Bloque configurable para la administración de footers personalizados desde Drupal, permitiendo gestionar logos, banners, enlaces informativos y redes sociales desde un formulario administrativo.
+
+**Tecnologías:** Drupal 10, PHP, Twig, CSS, JavaScript
+
+---
+
+#### 🗺️ Interactive Map Drupal
+
+Implementación de mapa interactivo integrado con Drupal, utilizando datos dinámicos provenientes de contenidos y taxonomías para representar información territorial de forma visual e interactiva.
+
+**Tecnologías:** Drupal 10, PHP, Twig, JavaScript, Mapster
 
 ---
 
