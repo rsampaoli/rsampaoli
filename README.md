@@ -124,13 +124,7 @@ Implementación de mapa interactivo integrado con Drupal, utilizando datos diná
 
 ### 📈 Estadísticas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsampaoli&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsampaoli&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rsampaoli&show_icons=true&locale=en&layout=compact" alt="rsampaoli" /></p>
 
 ---
 
