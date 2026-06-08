@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Ramiro Sampaoli</h1>
 
 <h3 align="center">
-Desarrollador Back-End especializado en Drupal, PHP y soluciones web institucionales 🇦🇷
+Desarrollador Drupal 🇦🇷
 </h3>
 
 ---
